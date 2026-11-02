@@ -5,7 +5,10 @@
 - 🌱 Estou aprimorando meus conhecimentos em Python, para análise de dados, e Java para integração de sistemas e desenvolvimento backend.
 - 🎯 Gosto de transformar problemas em soluções, explorar dados e desenvolver projetos que geram valor.
 
-##
+- ##
+
+## 👩🏻‍💻 Minhas tecnologias
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pamela-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -16,7 +19,13 @@
 
 ##
 
+## ✉️ Conecte-se comigo
+
+##
+
 <div>
   <a href = "mailto:pamelapsantos1802@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pamelapsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+##
