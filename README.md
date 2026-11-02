@@ -5,7 +5,7 @@
 - 🌱 Estou aprimorando meus conhecimentos em Python, para análise de dados, e Java para integração de sistemas e desenvolvimento backend.
 - 🎯 Gosto de transformar problemas em soluções, explorar dados e desenvolver projetos que geram valor.
 
-- ##
+##
 
 ## 👩🏻‍💻 Minhas tecnologias
 
